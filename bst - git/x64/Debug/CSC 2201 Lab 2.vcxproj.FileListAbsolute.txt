@@ -1,0 +1,2 @@
+C:\c++\CSC 2201 Lab 2\x64\Debug\CSC 2201 Lab 2.exe
+C:\c++\CSC 2201 Lab 2\x64\Debug\CSC 2201 Lab 2.pdb
